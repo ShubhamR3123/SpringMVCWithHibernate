@@ -6,7 +6,7 @@
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
 </head>
-<body bg color="lightpink">
+<body bgcolor="lightpink">
 
 <form action="saveEmployee" method="post">
 
