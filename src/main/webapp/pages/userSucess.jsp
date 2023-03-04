@@ -6,7 +6,7 @@
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
 </head>
-<body>
+<body bg color="lightpink">
 <h1>User Saved Successfully with ID: ${EMPID}</h1>
 </body>
 </html>
